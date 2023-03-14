@@ -4,14 +4,14 @@ public class Main {
 
 	public static void main(String[] args) {
 		/*
-		 * Crea una aplicació capaç de llegir un fitxer CSV. Aquest fitxer té 3 camps: nom, cognom i DNI, per cada registre. Es tracta d’ordenar les persones llegides del fitxer, mitjançant el seu nom, cognom o DNI. Pots fer servir la llista que creguis més adient.
+		 * Crea una aplicació capaç de llegir un fitxer CSV. 
+		 * Aquest fitxer té 3 camps: nom, cognom i DNI, per cada registre. 
+		 * Es tracta d’ordenar les persones llegides del fitxer, mitjançant el seu nom, cognom o DNI. 
+		 * Pots fer servir la llista que creguis més adient.
 
 La classe Persona té 3 atributs: 
-
 nom
-
 cognom
-
 DNI
 
 
